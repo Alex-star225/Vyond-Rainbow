@@ -147,6 +147,20 @@
 			"statusCode": 302,
 			"content": ""
 		},
+		"/videomaker/full/stickfigure/tutorial": {
+			"headers": {
+				"Location": "/go_full?tray=stickfigure"
+			},
+			"statusCode": 302,
+			"content": ""
+		},
+		"/videomaker/full/import/tutorial": {
+			"headers": {
+				"Location": "/go_full?tray=import"
+			},
+			"statusCode": 302,
+			"content": ""
+		},
 		"/crossdomain.xml": {
 			"headers": {
 				"Content-Type": "text/html; charset=UTF-8"
