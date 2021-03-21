@@ -84,6 +84,69 @@
 			"statusCode": 302,
 			"content": ""
 		},
+		"/videomaker/full/custom/tutorial": {
+			"headers": {
+				"Location": "/go_full?tray=custom"
+			},
+			"statusCode": 302,
+			"content": ""
+		},
+		"/videomaker/full/business-friendly/tutorial": {
+			"headers": {
+				"Location": "/go_full?tray=business"
+			},
+			"statusCode": 302,
+			"content": ""
+		},
+		"/videomaker/full/retro/tutorial": {
+			"headers": {
+				"Location": "/go_full?tray=retro"
+			},
+			"statusCode": 302,
+			"content": ""
+		},
+		"/videomaker/full/anime/tutorial": {
+			"headers": {
+				"Location": "/go_full?tray=anime"
+			},
+			"statusCode": 302,
+			"content": ""
+		},
+		"/videomaker/full/chibi/tutorial": {
+			"headers": {
+				"Location": "/go_full?tray=chibi"
+			},
+			"statusCode": 302,
+			"content": ""
+		},
+		"/videomaker/full/ninjaanime/tutorial": {
+			"headers": {
+				"Location": "/go_full?tray=ninjaanime"
+			},
+			"statusCode": 302,
+			"content": ""
+		},
+		"/videomaker/full/ninja/tutorial": {
+			"headers": {
+				"Location": "/go_full?tray=ninja"
+			},
+			"statusCode": 302,
+			"content": ""
+		},
+		"/videomaker/full/animal/tutorial": {
+			"headers": {
+				"Location": "/go_full?tray=animal"
+			},
+			"statusCode": 302,
+			"content": ""
+		},
+		"/videomaker/full/infographics/tutorial": {
+			"headers": {
+				"Location": "/go_full?tray=infographics"
+			},
+			"statusCode": 302,
+			"content": ""
+		},
 		"/crossdomain.xml": {
 			"headers": {
 				"Content-Type": "text/html; charset=UTF-8"
